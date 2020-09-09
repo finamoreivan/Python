@@ -1,3 +1,5 @@
+#Test de velocidad de internet.
+
 from speedtest import Speedtest
 
 st = Speedtest()
